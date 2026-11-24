@@ -1,6 +1,7 @@
 # Dual_Clock_Tremor
 
 dual_clock_research_001.zip
+
 │
 ├── configuration.json
 ├── environment.json
@@ -8,6 +9,7 @@ dual_clock_research_001.zip
 ├── dual_clock.py
 ├── workflow.py
 │
+
 ├── simulation/
 │   ├── S1/
 │   ├── S2/
@@ -23,6 +25,7 @@ dual_clock_research_001.zip
 │   ├── paired_comparisons.tex
 │   └── failures.csv
 │
+
 ├── real_data/
 │   ├── data_audit.csv
 │   ├── source_provenance.json
@@ -32,5 +35,6 @@ dual_clock_research_001.zip
 │   ├── test/
 │   └── forecast_summary.csv
 │
+
 ├── sbc/           [optional]
 └── sensitivity/   [optional]
